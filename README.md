@@ -1,3 +1,24 @@
+{
+  "short_name": "PVG Studio",
+  "name": "P.V.G Studio - Photo & Video Editor",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://via.placeholder.com/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/P.V.G-/",
+  "background_color": "#121212",
+  "theme_color": "#ff9800",
+  "display": "standalone",
+  "orientation": "portrait"
+}
 <!DOCTYPE html>
 <html lang="ml">
 <head>
